@@ -8,7 +8,7 @@
     {
       "binding": "DB",
       "database_name": "YOUR_D1_NAME",
-      "database_id": "database_id"
+      "database_id": "YOUR_D1_DATABASE_ID"
     }
   ],
 
